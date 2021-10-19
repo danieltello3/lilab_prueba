@@ -16,8 +16,10 @@ npm run start:dev
 yarn start:dev
 ```
 
-Abrir el servidor en [http://localhost:8000] en el navegador.
+Abrir el servidor en [http://localhost:8000](http://localhost:8000) en el navegador.
 
 Por falta de tiempo, no todas las rutas tienen vistas. solo las necesarias para la visualizacion de los prestamos, como se detalla en el enunciado.
 
 para crear nuevos clientes o prestamos, y añadirlos a la base de datos, se puede hacer por medio de postman.
+
+En la carpeta /DB se encuentra el backup de la database con algunos datos de prueba.
